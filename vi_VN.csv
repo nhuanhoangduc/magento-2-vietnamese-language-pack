@@ -540,7 +540,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "All Store Views","Tất cả lượt xem cửa hàng",module,Magento_Backend
 "What is this?","Đây là gì?",module,Magento_Backend
 "Save Account","Lưu tài khoản",module,Magento_Backend
-"My Account","Tài khoản của tôi",module,Magento_Backend
+"My Account","Tài khoản",module,Magento_Backend
 "Account Information","Thông tin tài khoản",module,Magento_Backend
 "User Name","Tên người dùng",module,Magento_Backend
 "First Name","Tên",module,Magento_Backend
@@ -4846,7 +4846,7 @@ new products will be created. Use this step to customize images and price for yo
 "We're unable to send the password reset email.","Chúng tôi không thể gửi email đặt lại mật khẩu.",module,Magento_Customer
 "Please enter your email.","Vui lòng nhập email của bạn.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Nếu có một tài khoản liên kết với %1, bạn sẽ nhận được một email với một liên kết để đặt lại mật khẩu của bạn.",module,Magento_Customer
-"My Account","Tài khoản của tôi",module,Magento_Customer
+"My Account","Tài khoản",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Tài khoản này không được xác nhận.' ' <a href=""%1""> Bấm vào đây</a> để gửi lại email xác nhận.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","Phat hiện một lỗi không xác định. Xin vui lòng liên hệ với chúng tôi để được hỗ trợ.",module,Magento_Customer
 "A login and a password are required.","Một tên đăng nhập và mật khẩu được yêu cầu.",module,Magento_Customer
@@ -8191,7 +8191,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.",module,Magento_Msrp
 "Wishlist","Danh sách yêu thích",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Báo cáo danh sách yêu thích của khách hàng",module,Magento_MultipleWishlist
-"My Wish Lists","Danh sách yêu thích của tôi",module,Magento_MultipleWishlist
+"My Wish Lists","Danh sách yêu thích",module,Magento_MultipleWishlist
 "1 item in wish list","1 sản phẩm trong danh sách yêu thích",module,Magento_MultipleWishlist
 "%1 items in wish list","%1 sản phẩm trong danh sách yêu thích",module,Magento_MultipleWishlist
 "Wish List Search","Tìm kiếm danh sách yêu thích",module,Magento_MultipleWishlist
@@ -10003,7 +10003,7 @@ For example, PayPal Credit is only shown to buyers in countries where PayPal Cre
 offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Not you?","Không phải bạn?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Giỏ hàng của bạn đã được Cập Nhật với giá mới.",module,Magento_Persistent
-"Welcome, %1!","Chào mừng, %1!",module,Magento_Persistent
+"Welcome, %1!","%1!",module,Magento_Persistent
 "We cannot load the configuration from file %1.","Chúng tôi không thể tải cấu hình từ tệp %1.",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","Phương pháp ""%1"" không được xác định trong ""%2""",module,Magento_Persistent
 "To check out, please sign in using your email address.","Để kiểm tra, xin vui lòng đăng nhập bằng địa chỉ email của bạn.",module,Magento_Persistent
@@ -11124,7 +11124,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rating","Xếp hạng",module,Magento_Review
 "Actions","Thao tác",module,Magento_Review
 "See Details","Xem chi tiết",module,Magento_Review
-"You have submitted no reviews.","Bạn đã gửi đánh giá.",module,Magento_Review
+"You have submitted no reviews.","Chưa có đánh giá.",module,Magento_Review
 "Back","Trở lại",module,Magento_Review
 "My Recent Reviews","Đánh giá gần đây của tôi",module,Magento_Review
 "View All","Xem tất cả",module,Magento_Review
@@ -12400,7 +12400,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Ship To","Gửi đến",module,Magento_Sales
 "Actions","Thao tác",module,Magento_Sales
 "View Order","Xem đơn đặt hàng",module,Magento_Sales
-"You have placed no orders.","Bạn không đặt đơn hàng nào.",module,Magento_Sales
+"You have placed no orders.","Chưa có đơn hàng.",module,Magento_Sales
 "No shipping information available","Không có thông tin vận chuyển",module,Magento_Sales
 "Print Order","In đơn hàng",module,Magento_Sales
 "Print All Invoices","In tất cả các hóa đơn",module,Magento_Sales
@@ -13248,7 +13248,7 @@ Cách sử dụng giới hạn áp dụng chỉ cho khách hàng đã đăng nh�
 "Add Invitee","Thêm khách mời",module,Magento_SendFriend
 "Send Email","Gửi Email",module,Magento_SendFriend
 "Back","Trở lại",module,Magento_SendFriend
-"Welcome, %name","Chào mừng,%name",module,Magento_SendFriend
+"Welcome, %name","%name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name muốn chia sẻ sản phẩm này với bạn:",module,Magento_SendFriend
 "Message from %sender_name:","Tin nhắn từ %sender_name:",module,Magento_SendFriend
@@ -14651,7 +14651,7 @@ than a customer might expect. ","Cảnh báo cấu hình thuế giảm giá có 
 "Remove","Loại bỏ",module,Magento_Theme
 "Help Us Keep Magento Healthy","Giúp chúng tôi giữ cho Magento khỏe mạnh",module,Magento_Theme
 "Report All Bugs","Báo cáo tất cả các lỗi",module,Magento_Theme
-"Welcome, %1!","Chào mừng, %1!",module,Magento_Theme
+"Welcome, %1!","%1!",module,Magento_Theme
 "Toggle Nav","Toggle Nav",module,Magento_Theme
 "JavaScript seems to be disabled in your browser.","JavaScript dường như bị vô hiệu trong trình duyệt của bạn.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","Để có trải nghiệm tốt nhất trên trang web của chúng tôi, đảm bảo bật Javascript trong trình duyệt của bạn.",module,Magento_Theme
@@ -15553,12 +15553,12 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Wrong request.","Yêu cầu sai.",module,Magento_Vault
 "Deletion failure. Please try again.","Xóa bỏ thất bại. Xin vui lòng thử lại.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Thông tin thanh toán",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Số thẻ",module,Magento_Vault
 "Expiration Date","Ngày hết hạn",module,Magento_Vault
 "Type","Loại",module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","Bạn chưa có tài khoản thanh toán.",module,Magento_Vault
 "ending","kết thúc",module,Magento_Vault
 "Actions","Thao tác",module,Magento_Vault
 "Delete","Xóa bỏ",module,Magento_Vault
@@ -16025,7 +16025,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Inserting a widget does not create a widget instance.","Inserting a widget does not create a widget instance.",module,Magento_Widget
 "Wish List","Danh sách mong muốn",module,Magento_Wishlist
 "Wish List Sharing","Chia sẻ danh sách yêu thích",module,Magento_Wishlist
-"My Wish List","Danh sách yêu thích của tôi",module,Magento_Wishlist
+"My Wish List","Danh sách yêu thích",module,Magento_Wishlist
 "%1's Wish List","Danh sách yêu thích của %1",module,Magento_Wishlist
 "Page not found.","Không tìm thấy trang.",module,Magento_Wishlist
 "We can't specify a product.","Chúng tôi không thể chỉ định một sản phẩm.",module,Magento_Wishlist
@@ -16279,7 +16279,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Account Information","Thông tin tài khoản",theme,frontend/Magento/luma
 "About Us","Giới Thiệu Về Chúng Tôi",theme,frontend/Magento/luma
 "Customer Service","Dịch vụ khách hàng",theme,frontend/Magento/luma
-"My Account","Tài khoản của tôi",theme,frontend/Magento/luma
+"My Account","Tài khoản",theme,frontend/Magento/luma
 "Backup options","Tùy chọn sao lưu",lib,web
 "Warning","Cảnh báo",lib,web
 "Cancel","Hủy bỏ",lib,web
