@@ -517,7 +517,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Amounts","Số tiền",module,Magento_Backend
 "Bestsellers","Sản phẩm bán chạy nhất",module,Magento_Backend
 "Most Viewed Products","Sản phẩm được xem nhiều nhất",module,Magento_Backend
-"New Customers","Khách hàng mới",module,Magento_Backend
+"New Customers","Chưa có tài khoản",module,Magento_Backend
 "Customers","Khách hàng",module,Magento_Backend
 "Customer","Khách hàng",module,Magento_Backend
 "Guest","Khách",module,Magento_Backend
@@ -1462,7 +1462,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Please confirm that you want to delete this credit card","Bạn có chắc chắn muốn xóa thẻ tín dụng này",module,Magento_Braintree
 "Cardholder Name","Tên chủ thẻ",module,Magento_Braintree
 "Back","Trở lại",module,Magento_Braintree
-"* Required Fields","* Bắt buộc",module,Magento_Braintree
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Braintree
 "CVV","CVV",module,Magento_Braintree
 "Card Verification Number Visual Reference","Hình ảnh xác minh số thẻ",module,Magento_Braintree
 "Make Default","Tạo mặc định",module,Magento_Braintree
@@ -1621,7 +1621,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Buy %1 with %2 discount each","Mua %1 được %2 nhận chiết khấu mỗi loại",module,Magento_Bundle
 "Go back to product details","Quay trở lại chi tiết sản phẩm",module,Magento_Bundle
 "Customize and Add to Cart","Tùy chỉnh và Thêm vào giỏ hàng",module,Magento_Bundle
-"* Required Fields","* Bắt buộc",module,Magento_Bundle
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Bundle
 "Your Customization","Tùy chỉnh của bạn",module,Magento_Bundle
 "Availability","Sẵn có",module,Magento_Bundle
 "In stock","Còn trong kho",module,Magento_Bundle
@@ -1864,7 +1864,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Low Stock Products","Sản phẩm tồn kho thấp",module,Magento_Catalog
 "%1 has reached a quantity of %2.","%1 đã đạt một số lượng %2.",module,Magento_Catalog
 "Home","Trang chủ",module,Magento_Catalog
-"Go to Home Page","Đi đến trang chủ",module,Magento_Catalog
+"Go to Home Page","Trang chủ",module,Magento_Catalog
 "Subscribe to RSS Feed","Đăng ký RSS Feed",module,Magento_Catalog
 "Products Comparison List","Danh sách sản phẩm so sánh",module,Magento_Catalog
 "N/A","Không xác định",module,Magento_Catalog
@@ -2302,7 +2302,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Clear All","Xóa tất cả",module,Magento_Catalog
 "Prev","Trước",module,Magento_Catalog
 "Next","Tiếp theo",module,Magento_Catalog
-"We can't find products matching the selection.","Chúng tôi không thể tìm thấy sản phẩm phù hợp với việc lựa chọn.",module,Magento_Catalog
+"We can't find products matching the selection.","Không có sản phẩm phù hợp",module,Magento_Catalog
 "Learn More","Tìm hiểu thêm",module,Magento_Catalog
 "Add to Compare","Thêm vào so sánh",module,Magento_Catalog
 "We found other products you might like!","Chúng tôi tìm thấy các sản phẩm khác, bạn có thể thích!",module,Magento_Catalog
@@ -2320,7 +2320,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "View as","Xem dưới dạng",module,Magento_Catalog
 "More Information","Thêm thông tin",module,Magento_Catalog
 "Loading...","Đang tải...",module,Magento_Catalog
-"* Required Fields","* Bắt buộc",module,Magento_Catalog
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Catalog
 "Availability","Sẵn có",module,Magento_Catalog
 "Warning message","Thông báo cảnh báo",module,Magento_Catalog
 "Submit","Gửi",module,Magento_Catalog
@@ -3023,7 +3023,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Xóa các Cập Nhật sẽ loại bỏ catalog price rule từ chiến dịch này và tất cả thay đổi dự kiến sẽ bị mất.",module,Magento_CatalogRuleStaging
 "Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CatalogRuleStaging
 "Home","Trang chủ",module,Magento_CatalogSearch
-"Go to Home Page","Đi đến trang chủ",module,Magento_CatalogSearch
+"Go to Home Page","Trang chủ",module,Magento_CatalogSearch
 "Catalog Advanced Search","Danh mục tìm kiếm nâng cao",module,Magento_CatalogSearch
 "All","Tất Cả",module,Magento_CatalogSearch
 "Yes","Có",module,Magento_CatalogSearch
@@ -3285,7 +3285,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit item parameters","Sửa thông số sản phẩm",module,Magento_Checkout
 "Edit","Chỉnh sửa",module,Magento_Checkout
 "Remove item","Xóa sản phẩm",module,Magento_Checkout
-"You have no items in your shopping cart.","Bạn có không có sản phẩm nào trong giỏ hàng của bạn.",module,Magento_Checkout
+"You have no items in your shopping cart.","Chưa có sản phẩm nào trong giỏ hàng",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Bấm vào <a href=""%1""> đây</a> để tiếp tục mua sắm.",module,Magento_Checkout
 "Estimate Tax","Ước tính thuế",module,Magento_Checkout
 "Estimate Shipping and Tax","ước tính vận chuyển và thuế",module,Magento_Checkout
@@ -3505,7 +3505,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Images (%1)","Hình ảnh (%1)",module,Magento_Cms
 "Storage Root","Gốc lưu trữ",module,Magento_Cms
 "Home","Trang chủ",module,Magento_Cms
-"Go to Home Page","Đi đến trang chủ",module,Magento_Cms
+"Go to Home Page","Trang chủ",module,Magento_Cms
 "CMS","CMS",module,Magento_Cms
 "You deleted the block.","Bạn đã xóa các khối.",module,Magento_Cms
 "We can't find a block to delete.","Không tìm thấy khối đối tượng để xóa.",module,Magento_Cms
@@ -4596,7 +4596,7 @@ new products will be created. Use this step to customize images and price for yo
 "Name is missing","Name is missing",module,Magento_Contact
 "Comment is missing","Comment is missing",module,Magento_Contact
 "Invalid email address","Invalid email address",module,Magento_Contact
-"* Required Fields","* Bắt buộc",module,Magento_Contact
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Contact
 "Write Us","Viết cho chúng tôi",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Gửi một lưu ý cho chúng tôi và chúng tôi sẽ trả lời bạn nhanh nhất có thể.",module,Magento_Contact
 "Name","Tên",module,Magento_Contact
@@ -4609,7 +4609,7 @@ new products will be created. Use this step to customize images and price for yo
 "Message","Tin nhắn",module,Magento_Contact
 "Contacts Section","Phần liên hệ",module,Magento_Contact
 "Contacts","Liên hệ",module,Magento_Contact
-"Contact Us","Liên hệ với chúng tôi",module,Magento_Contact
+"Contact Us","Liên hệ",module,Magento_Contact
 "Enable Contact Us","Cho phép liên hệ với chúng tôi",module,Magento_Contact
 "Email Options","Tùy chọn email",module,Magento_Contact
 "Send Emails To","Gửi email đến",module,Magento_Contact
@@ -4733,7 +4733,7 @@ new products will be created. Use this step to customize images and price for yo
 "Reset Password","Đặt lại mật khẩu",module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?","Bạn có chắc bạn muốn thu hồi thẻ của khách hàng?",module,Magento_Customer
 "Force Sign-In","Bắt buộc đăng nhập",module,Magento_Customer
-"New Customer","Khách hàng mới",module,Magento_Customer
+"New Customer","Chưa có tài khoản",module,Magento_Customer
 "Save and Continue Edit","Lưu và tiếp tục chỉnh sửa",module,Magento_Customer
 "Back","Trở lại",module,Magento_Customer
 "Please select","Vui lòng chọn",module,Magento_Customer
@@ -4818,7 +4818,7 @@ new products will be created. Use this step to customize images and price for yo
 "The customer would belong to Customer Group %s.","Khách hàng sẽ thuộc về nhóm khách hàng %s.",module,Magento_Customer
 "There was an error detecting Customer Group.","Đã có lỗi khi phát hiện các nhóm khách hàng.",module,Magento_Customer
 "Validate VAT Number","Xác nhận số thuế GTGT",module,Magento_Customer
-"Customer Login","Khách hàng đăng nhập",module,Magento_Customer
+"Customer Login","Đăng nhập",module,Magento_Customer
 "Create New Customer Account","Tạo mới tài khoản khách hàng",module,Magento_Customer
 "Date of Birth","Ngày sinh",module,Magento_Customer
 "Bad request.","Yêu cầu bị lỗi.",module,Magento_Customer
@@ -4832,7 +4832,7 @@ new products will be created. Use this step to customize images and price for yo
 "Wrong email.","Email sai.",module,Magento_Customer
 "Your password reset link has expired.","Liên kết đặt lại mật khẩu của bạn đã hết hạn.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Bạn phải xác nhận tài khoản của bạn. Vui lòng kiểm tra email của bạn để thấy liên kết xác nhận hoặc <a href=""%1""> bấm vào đây</a> để nhận một liên kết mới.",module,Magento_Customer
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Hiện đã là một tài khoản với địa chỉ email này. Nếu bạn chắc chắn rằng nó là địa chỉ email của bạn, <a href=""%1""> Bấm vào đây</a> để có được mật khẩu của bạn và truy cập vào tài khoản của bạn.",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Đã có tài khoản sử dụng địa chỉ email này. Nếu đây là địa chỉ email của bạn, <a href=""%1""> Bấm vào đây</a> để lấy lại mật khẩu và truy cập tài khoản.",module,Magento_Customer
 "We can't save the customer.","Không thể lưu thông tin khách hàng.",module,Magento_Customer
 "Please make sure your passwords match.","Hãy chắc chắn rằng mật khẩu của bạn phù hợp.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Nếu bạn là một khách hàng đã đăng ký thuế VAT, xin vui lòng bấm vào <a href=""%1""> đây</a> để nhập vào địa chỉ vận chuyển thích hợp để tính thuế VAT.",module,Magento_Customer
@@ -5036,7 +5036,7 @@ new products will be created. Use this step to customize images and price for yo
 "Additional Address Entries","Thêm lối vào địa chỉ",module,Magento_Customer
 "Delete Address","Xóa địa chỉ",module,Magento_Customer
 "You have no other address entries in your address book.","Bạn có không địa chỉ khác trong sổ địa chỉ của bạn.",module,Magento_Customer
-"* Required Fields","* Bắt buộc",module,Magento_Customer
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Customer
 "Address","Địa chỉ",module,Magento_Customer
 "Street Address","Địa chỉ đường",module,Magento_Customer
 "Street Address %1","Địa chỉ đường phố %1",module,Magento_Customer
@@ -5066,7 +5066,7 @@ new products will be created. Use this step to customize images and price for yo
 "Save","Lưu lại",module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Vui lòng nhập địa chỉ email của bạn dưới đây để nhận được một liên kết đặt lại mật khẩu.",module,Magento_Customer
 "Reset My Password","Đặt lại mật khẩu của tôi",module,Magento_Customer
-"Registered Customers","Khách hàng đã đăng ký",module,Magento_Customer
+"Registered Customers","Đã tạo tài khoản",module,Magento_Customer
 "If you have an account, sign in with your email address.","Nếu bạn có một tài khoản, hãy đăng nhập bằng địa chỉ email của bạn.",module,Magento_Customer
 "Password","Mật khẩu",module,Magento_Customer
 "Forgot Your Password?","Bạn quên mật khẩu?",module,Magento_Customer
@@ -5079,8 +5079,8 @@ new products will be created. Use this step to customize images and price for yo
 "Create an Account","Tạo tài khoản",module,Magento_Customer
 "Set a New Password","Thiết lập một mật khẩu mới",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Bạn đã đăng xuất và sẽ đi đến trang chủ của chúng tôi trong 5 giây.",module,Magento_Customer
-"New Customers","Khách hàng mới",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Tạo một tài khoản có nhiều lợi ích: kiểm tra nhanh hơn, giữ nhiều hơn một địa chỉ, theo dõi các đơn đặt hàng và nhiều hơn nữa.",module,Magento_Customer
+"New Customers","Chưa có tài khoản",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Tạo tại khoản mới để quản lý đơn hàng, quản lý địa chỉ mua hàng. Thông tin của khách hàng sẽ được bảo mật tuyệt đối.",module,Magento_Customer
 "Company","Công ty",module,Magento_Customer
 "Fax","Số Fax",module,Magento_Customer
 "Gender","Giới tính",module,Magento_Customer
@@ -5293,7 +5293,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 " Example: "," Ví dụ: ",module,Magento_Customer
 "If you believe it is the right one you can ignore this notice.","Nếu bạn tin rằng nó là đúng, bạn có thể bỏ qua thông báo này.",module,Magento_Customer
 "Invalid Form Key. Please refresh the page.","Form Key không hợp lệ. Xin vui lòng làm mới trang.",module,Magento_Customer
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Thông tin đăng nhập không chính xác",module,Magento_Customer
 "The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
 "The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
 "The customer ID isn't defined.","The customer ID isn't defined.",module,Magento_Customer
@@ -5523,7 +5523,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "This fieldset is not empty!","Trường thiết đặt này trống!",module,Magento_CustomerCustomAttributes
 "Choose Website:","Chọn trang web:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Vui lòng xác nhận việc chuyển trang web. Tất cả dữ liệu chưa được lưu sẽ bị mất.",module,Magento_CustomerCustomAttributes
-"* Required Fields","* Bắt buộc",module,Magento_CustomerCustomAttributes
+"* Required Fields","* Thông tin bắt buộc",module,Magento_CustomerCustomAttributes
 "Contact Information","Thông tin liên hệ",module,Magento_CustomerCustomAttributes
 "Address","Địa chỉ",module,Magento_CustomerCustomAttributes
 "Street Address","Địa chỉ đường",module,Magento_CustomerCustomAttributes
@@ -5634,7 +5634,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Inactive","Không hoạt động",module,Magento_CustomerSegment
 "Apply To","Áp dụng cho",module,Magento_CustomerSegment
 "Visitors and Registered Customers","Khách tham quan và khách hàng đã đăng ký",module,Magento_CustomerSegment
-"Registered Customers","Khách hàng đã đăng ký",module,Magento_CustomerSegment
+"Registered Customers","Đã tạo tài khoản",module,Magento_CustomerSegment
 "Visitors","Số lượt truy cập",module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.","Xin vui lòng lưu các thông tin này để xác định các điều kiện phân khúc.",module,Magento_CustomerSegment
 "Matched Customers (%1)","Khách hàng phù hợp (%1)",module,Magento_CustomerSegment
@@ -7172,7 +7172,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "First Name","Tên",module,Magento_GiftRegistry
 "Name","Tên",module,Magento_GiftRegistry
 "Email","Email",module,Magento_GiftRegistry
-"* Required Fields","* Bắt buộc",module,Magento_GiftRegistry
+"* Required Fields","* Thông tin bắt buộc",module,Magento_GiftRegistry
 "Sender","Người gửi",module,Magento_GiftRegistry
 "Invitee","Khách mời",module,Magento_GiftRegistry
 "Maximum %1 email addresses.","Tối đa %1 điạ chỉ email.",module,Magento_GiftRegistry
@@ -7899,7 +7899,7 @@ e.g. var/export, var/import, var/export/some/dir","Đối với loại ""Local S
 "Sign Up At","Đăng ký tại",module,Magento_Invitation
 "Inviter Information","Thông tin khách mời",module,Magento_Invitation
 "Admin","Quản trị",module,Magento_Invitation
-"* Required Fields","* Bắt buộc",module,Magento_Invitation
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Invitation
 "Invite your friends by entering their email addresses","Mời bạn bè của bạn bằng cách nhập địa chỉ email của họ",module,Magento_Invitation
 "Maximum %1 email addresses allowed.","Địa chỉ email %1 tối đa cho phép.",module,Magento_Invitation
 "Add","Thêm",module,Magento_Invitation
@@ -8764,7 +8764,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Quote Items","Quote Items",module,Magento_NegotiableQuote
 "Update","Cập nhật",module,Magento_NegotiableQuote
 "No shipping information available.","No shipping information available.",module,Magento_NegotiableQuote
-"Contact Us","Liên hệ với chúng tôi",module,Magento_NegotiableQuote
+"Contact Us","Liên hệ",module,Magento_NegotiableQuote
 "Your quote number is: %1.","Your quote number is: %1.",module,Magento_NegotiableQuote
 "The quote has been sent to the merchant.","The quote has been sent to the merchant.",module,Magento_NegotiableQuote
 "Continue Shopping","Tiếp tục mua sắm",module,Magento_NegotiableQuote
@@ -10973,7 +10973,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "items","sản phẩm",module,Magento_RequisitionList
 "item","sản phẩm",module,Magento_RequisitionList
 "in requisition list","in requisition list",module,Magento_RequisitionList
-"Contact Us","Liên hệ với chúng tôi",module,Magento_RequisitionList
+"Contact Us","Liên hệ",module,Magento_RequisitionList
 "Add to Cart","Thêm vào giỏ hàng",module,Magento_RequisitionList
 "Update List","Update List",module,Magento_RequisitionList
 "Delete Requisition List","Delete Requisition List",module,Magento_RequisitionList
@@ -11135,7 +11135,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Ratings Review Summary","Bản tóm tắt bài đánh giá xếp hạng",module,Magento_Review
 "Be the first to review this product","Là người đầu tiên để xem xét sản phẩm này",module,Magento_Review
 "Write Your Own Review","Viết nhận xét của riêng bạn",module,Magento_Review
-"* Required Fields","* Bắt buộc",module,Magento_Review
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Review
 "You're reviewing:","Bạn đang đánh giá:",module,Magento_Review
 "Your Rating","Xếp hạng của bạn",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
@@ -12045,7 +12045,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "We can't update the transaction details.","Chúng tôi không thể cập nhật chi tiết giao dịch.",module,Magento_Sales
 "Orders and Returns","Đơn đặt hàng và trả lại",module,Magento_Sales
 "Home","Trang chủ",module,Magento_Sales
-"Go to Home Page","Đi đến trang chủ",module,Magento_Sales
+"Go to Home Page","Trang chủ",module,Magento_Sales
 "You entered incorrect data. Please try again.","Bạn đã nhập dữ liệu không chính xác. Xin vui lòng thử lại.",module,Magento_Sales
 "We can't find this wish list.","Chúng tôi không tìm thấy danh sách cần mua này.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Chúng tôi không thể thêm một sản phẩm vào giỏ hàng bởi ID ""%1"".",module,Magento_Sales
@@ -13240,7 +13240,7 @@ Cách sử dụng giới hạn áp dụng chỉ cho khách hàng đã đăng nh�
 "Remove","Loại bỏ",module,Magento_SendFriend
 "Name","Tên",module,Magento_SendFriend
 "Email","Email",module,Magento_SendFriend
-"* Required Fields","* Bắt buộc",module,Magento_SendFriend
+"* Required Fields","* Thông tin bắt buộc",module,Magento_SendFriend
 "Sender","Người gửi",module,Magento_SendFriend
 "Message","Tin nhắn",module,Magento_SendFriend
 "Invitee","Khách mời",module,Magento_SendFriend
@@ -13595,7 +13595,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Carrier:","Đơn vị vận chuyển:",module,Magento_Shipping
 "Error:","Lỗi:",module,Magento_Shipping
 "Tracking information is currently not available. Please ","Thông tin Theo dõi là hiện nay không có sẵn. Vui lòng ",module,Magento_Shipping
-"contact us","liên hệ với chúng tôi",module,Magento_Shipping
+"contact us","Liên hệ",module,Magento_Shipping
 " for more information or "," để biết thêm thông tin hoặc ",module,Magento_Shipping
 "email us at ","gửi email cho chúng tôi tại ",module,Magento_Shipping
 "Info:","Thông tin:",module,Magento_Shipping
@@ -14689,11 +14689,11 @@ than a customer might expect. ","Cảnh báo cấu hình thuế giảm giá có 
 "We could not detect a size.","Chúng tôi không xác định một kích thước.",module,Magento_Theme
 "We don't recognize this file extension.","Chúng tôi không nhận ra phần mở rộng tập tin này.",module,Magento_Theme
 "Home","Trang chủ",module,Magento_Theme
-"Go to Home Page","Đi đến trang chủ",module,Magento_Theme
+"Go to Home Page","Trang chủ",module,Magento_Theme
 "Empty","Trống",module,Magento_Theme
 "1 column","1 cột",module,Magento_Theme
 "Configuration","Cấu hình",module,Magento_Theme
-"Default welcome msg!","Chào mừng bạn đến tin nhắn mặc định!",module,Magento_Theme
+"Default welcome msg!","Chào mừng bạn đến Alanshop!",module,Magento_Theme
 "Copyright © 2013-present Magento, Inc. All rights reserved.","Copyright © 2013-present Magento, Inc. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Thiết kế cấu hình mạng lưới",module,Magento_Theme
 "Rebuild design config grid index","Xây dựng lại thiết kế cấu hình mạng lưới chỉ số",module,Magento_Theme
@@ -15615,7 +15615,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Manage Hierarchies","Quản lý phân cấp",module,Magento_VersionsCms
 "Hierarchy","Cấp bậc",module,Magento_VersionsCms
 "Home","Trang chủ",module,Magento_VersionsCms
-"Go to Home Page","Đi đến trang chủ",module,Magento_VersionsCms
+"Go to Home Page","Trang chủ",module,Magento_VersionsCms
 "You copied the pages hierarchy to the selected scopes.","Bạn đã sao chép hệ thống phân cấp trang để dò đã chọn.",module,Magento_VersionsCms
 "Something went wrong while copying the hierarchy.","Một cái gì đó đã đi sai trong khi sao chép hệ thống phân cấp.",module,Magento_VersionsCms
 "Please correct the scope.","Xin vui lòng sửa chính xác phạm vi.",module,Magento_VersionsCms
@@ -16108,7 +16108,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Product","Sản phẩm",module,Magento_Wishlist
 "Back","Trở lại",module,Magento_Wishlist
 "Wish List is empty now.","Hiện tại không có sản phẩm nào trong danh sách yêu thích.",module,Magento_Wishlist
-"* Required Fields","* Bắt buộc",module,Magento_Wishlist
+"* Required Fields","* Thông tin bắt buộc",module,Magento_Wishlist
 "Sharing Information","Thông tin chia sẻ",module,Magento_Wishlist
 "Email addresses, separated by commas","Địa chỉ email, ngăn cách bởi dấu phẩy",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Xem ở đây để liên kết một nguồn cấp dữ liệu RSS vào danh sách yêu thích của bạn.",module,Magento_Wishlist
