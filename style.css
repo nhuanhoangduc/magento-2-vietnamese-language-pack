@@ -24,3 +24,28 @@ body {
   height: 0 !important;
   display: none !important;
 }
+
+/* Check out form */
+#shipping-new-address-form div[name="shippingAddress.company"] {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
+}
+
+#shipping-new-address-form div[name="shippingAddress.street.0"] label {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
+}
+
+#shipping-new-address-form div[name="shippingAddress.postcode"] {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
+}
+
+#shipping-new-address-form div[name="shippingAddress.country_id"] {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
+}

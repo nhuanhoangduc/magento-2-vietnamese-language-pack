@@ -1378,8 +1378,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Postal code is required.","Mã số bưu chính là bắt buộc.",module,Magento_Braintree
 "Postal code may contain no more than 9 letter or number characters.","Mã bưu chính có thể chứa không quá 9 chữ cái hoặc ký tự.",module,Magento_Braintree
 "Region is too long.","Khu vực này là quá dài.",module,Magento_Braintree
-"Street address is required.","Địa chỉ đường phố là bắt buộc.",module,Magento_Braintree
-"Street address is too long.","Địa chỉ đường phố là quá dài.",module,Magento_Braintree
+"Street address is required.","Địa chỉ là bắt buộc.",module,Magento_Braintree
+"Street address is too long.","Địa chỉ là quá dài.",module,Magento_Braintree
 "Postal code can only contain letters, numbers, spaces, and hyphens.","Mã số bưu chính chỉ có thể chứa chữ cái, số, dấu cách và dấu gạch ngang.",module,Magento_Braintree
 "US state codes must be two characters to meet PayPal Seller Protection requirements.","US state codes must be two characters to meet PayPal Seller Protection requirements.",module,Magento_Braintree
 "Incomplete PayPal account information.","Incomplete PayPal account information.",module,Magento_Braintree
@@ -5039,7 +5039,7 @@ new products will be created. Use this step to customize images and price for yo
 "* Required Fields","* Thông tin bắt buộc",module,Magento_Customer
 "Address","Địa chỉ",module,Magento_Customer
 "Street Address","Địa chỉ đường",module,Magento_Customer
-"Street Address %1","Địa chỉ đường phố %1",module,Magento_Customer
+"Street Address %1","Địa chỉ %1",module,Magento_Customer
 "VAT Number","Số VAT",module,Magento_Customer
 "City","Thành phố",module,Magento_Customer
 "State/Province","Bang/tỉnh",module,Magento_Customer
@@ -5184,7 +5184,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Change Email Template","Change Email Template",module,Magento_Customer
 "Change Email and Password Template","Change Email and Password Template",module,Magento_Customer
 "Name and Address Options","Tên và địa chỉ các tùy chọn",module,Magento_Customer
-"Number of Lines in a Street Address","Số dòng trong một địa chỉ đường phố",module,Magento_Customer
+"Number of Lines in a Street Address","Số dòng trong một địa chỉ",module,Magento_Customer
 "Valid range: 1-4","Valid range: 1-4",module,Magento_Customer
 "Show Prefix","Hiển thị tiền tố",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","Tiêu đề đi trước tên (ông, bà, vv)",module,Magento_Customer
@@ -5527,7 +5527,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Contact Information","Thông tin liên hệ",module,Magento_CustomerCustomAttributes
 "Address","Địa chỉ",module,Magento_CustomerCustomAttributes
 "Street Address","Địa chỉ đường",module,Magento_CustomerCustomAttributes
-"Street Address %1","Địa chỉ đường phố %1",module,Magento_CustomerCustomAttributes
+"Street Address %1","Địa chỉ %1",module,Magento_CustomerCustomAttributes
 "VAT Number","Số VAT",module,Magento_CustomerCustomAttributes
 "City","Thành phố",module,Magento_CustomerCustomAttributes
 "State/Province","Bang/tỉnh",module,Magento_CustomerCustomAttributes
@@ -5800,7 +5800,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Unverifiable address. The billing or shipping address cannot be verified","Địa chỉ chưa được kiểm chứng. Địa chỉ thanh toán hoặc vận chuyển không được xác minh",module,Magento_Cybersource
 "Velocity. The account number was use  many times in the past 15 minutes","Nhanh chóng. Số tài khoản là sử dụng nhiều lần trong quá khứ 15 phút",module,Magento_Cybersource
 "Marked as suspect. The billing or shipping address is similar to an address previously marked as suspect","Được đánh dấu nghi ngờ. Thanh toán hoặc địa chỉ vận chuyển là tương tự như một địa chỉ trước đó được đánh dấu nghi ngờ",module,Magento_Cybersource
-"Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate","Đặt hàng Quà tặng. Địa chỉ đường phố, thành phố, tiểu bang hoặc quốc gia của thanh toán và vận chuyển địa chỉ không tương quan",module,Magento_Cybersource
+"Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate","Đặt hàng Quà tặng. Địa chỉ, quận huyện, hoặc tỉnh thành của thanh toán và vận chuyển địa chỉ không tương quan",module,Magento_Cybersource
 "Invalid value. Because the request contains an unexpected value, a default value was substituted. Although the transact on can still be processed, examine the request carefully for abnormalities in the order","Giá trị không hợp lệ. Vì yêu cầu có chứa một giá trị bất ngờ, một giá trị mặc định đã được thay thế. Mặc dù giao dịch trên vẫn có thể được xử lý, kiểm tra các yêu cầu một cách cẩn thận cho bất thường theo thứ tự",module,Magento_Cybersource
 "Unknown factor. Please contact Cybersource customer service","Yếu tố chưa được xác định. Xin vui lòng liên hệ với dịch vụ khách hàng Cybersource",module,Magento_Cybersource
 "Payment Token Build Error.","Hệ thống mã thanh toán thông báo lỗi.",module,Magento_Cybersource
@@ -6457,8 +6457,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Region/State","Vùng/Khu vực",module,Magento_Email
 "Zip/Postal Code","Mã bưu chính",module,Magento_Email
 "City","Thành phố",module,Magento_Email
-"Street Address 1","Địa chỉ đường phố 1",module,Magento_Email
-"Street Address 2","Địa chỉ đường phố 2",module,Magento_Email
+"Street Address 1","Địa chỉ 1",module,Magento_Email
+"Street Address 2","Địa chỉ 2",module,Magento_Email
 "VAT Number","Số VAT",module,Magento_Email
 "Store Contact Information","Thông tin liên lạc của cửa hàng",module,Magento_Email
 "%1","%1",module,Magento_Email
@@ -7146,7 +7146,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Company","Công ty",module,Magento_GiftRegistry
 "Address","Địa chỉ",module,Magento_GiftRegistry
 "Street Address","Địa chỉ đường",module,Magento_GiftRegistry
-"Street Address %1","Địa chỉ đường phố %1",module,Magento_GiftRegistry
+"Street Address %1","Địa chỉ %1",module,Magento_GiftRegistry
 "City","Thành phố",module,Magento_GiftRegistry
 "Please select a region, state or province.","Vui lòng chọn khu vực, bang hay tỉnh.",module,Magento_GiftRegistry
 "Zip/Postal Code","Mã bưu chính",module,Magento_GiftRegistry
@@ -11681,8 +11681,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Use Store Address","Sử dụng Cửa hàng địa chỉ",module,Magento_Rma
 "Contact Name","Tên liên hệ",module,Magento_Rma
 "Street Address","Địa chỉ đường",module,Magento_Rma
-"City","Thành phố",module,Magento_Rma
-"State/Province","Bang/tỉnh",module,Magento_Rma
+"City","Quận/Huyện",module,Magento_Rma
+"State/Province","Tỉnh/Thành phố",module,Magento_Rma
 "ZIP/Postal Code","Mã Bưu điện/Bưu chính",module,Magento_Rma
 "Country","Quốc gia",module,Magento_Rma
 "Enabled","Cho phép",module,Magento_Rma
