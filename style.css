@@ -14,5 +14,13 @@ body {
 }
 
 .fotorama__caption {
+  width: 0 !important;
+  height: 0 !important;
+  display: none !important;
+}
+
+.at-expanding-share-button {
+  width: 0 !important;
+  height: 0 !important;
   display: none !important;
 }
