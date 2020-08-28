@@ -4845,7 +4845,7 @@ new products will be created. Use this step to customize images and price for yo
 "Please correct the email address.","Xin vui lòng nhập chính xác địa chỉ email.",module,Magento_Customer
 "We're unable to send the password reset email.","Chúng tôi không thể gửi email đặt lại mật khẩu.",module,Magento_Customer
 "Please enter your email.","Vui lòng nhập email của bạn.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Nếu có một tài khoản liên kết với %1, bạn sẽ nhận được một email với một liên kết để đặt lại mật khẩu của bạn.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","AlanShop đã gửi link lấy lại mật khẩu vài email %1, vui lòng kiểm tra email của bạn.",module,Magento_Customer
 "My Account","Tài khoản",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Tài khoản này không được xác nhận.' ' <a href=""%1""> Bấm vào đây</a> để gửi lại email xác nhận.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","Phat hiện một lỗi không xác định. Xin vui lòng liên hệ với chúng tôi để được hỗ trợ.",module,Magento_Customer
