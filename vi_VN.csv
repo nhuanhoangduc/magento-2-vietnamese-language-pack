@@ -3211,7 +3211,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "My Cart (1 item)","Giỏ hàng của tôi (1 sản phẩm)",module,Magento_Checkout
 "My Cart (%1 items)","Giỏ hàng của tôi (%1 sản phẩm)",module,Magento_Checkout
 "My Cart","Giỏ hàng của tôi",module,Magento_Checkout
-"For delivery questions.","Đối với câu hỏi cho vận chuyển.",module,Magento_Checkout
+"For delivery questions.","Hỗ trợ khách hàng trong quá trình vận chuyển.",module,Magento_Checkout
 "Customer is already registered","Khách hàng đã được đăng ký",module,Magento_Checkout
 "Your session has expired","Phiên làm việc của bạn đã hết hạn",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Một bức thư với hướng dẫn thêm sẽ được gửi tới email của bạn.",module,Magento_Checkout
