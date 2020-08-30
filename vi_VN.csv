@@ -5332,7 +5332,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "New customer address has been added.","New customer address has been added.",module,Magento_Customer
 "There is no customer with such id.","There is no customer with such id.",module,Magento_Customer
 "We can't change customer address right now.","We can't change customer address right now.",module,Magento_Customer
-"Street","Đường phố",module,Magento_Customer
+"Street","",module,Magento_Customer
 "Set as default billing","Set as default billing",module,Magento_Customer
 "Set address as default billing","Set address as default billing",module,Magento_Customer
 "Are you sure you want to set the address as default billing address?","Are you sure you want to set the address as default billing address?",module,Magento_Customer
