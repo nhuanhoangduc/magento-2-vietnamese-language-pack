@@ -2,6 +2,13 @@ body {
   font-family: "Open Sans" !important;
 }
 
+/* Header menu */
+@media (min-width: 768px) {
+  .page-header.type22 .navigation .level0 > .level-top {
+    font-size: 18px;
+  }
+}
+
 .page-header.type22 .header.content > .logo {
   max-width: 115px !important;
 }
