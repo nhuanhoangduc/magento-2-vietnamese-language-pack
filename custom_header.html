@@ -42,40 +42,58 @@
 
 <!-- Zalo -->
 <div class="float-contact">
-    <a href="https://zalo.me/0388330501" class="chat-button chat-zalo" target="_blank">Chat Zalo</a>
-    <a href="tel:0388330501" class="chat-button hotline">Hotline: 0388 330 501</a>
+    <a href="https://zalo.me/0388330501" class="chat-button chat-zalo" target="_blank">
+        <img src="/pub/media/marketing/zalo-icon.png" class="chat-icon" />
+        Chat Zalo
+    </a>
+    <a href="tel:0388330501" class="chat-button hotline">GỌI NGAY!!! 0388 330 501</a>
 </div>
 <style>
     .float-contact {
+        display: flex;
+        height: 45px;
         position: fixed;
-        bottom: 20px;
-        left: 20px;
+        bottom: 25px;
+        left: 15px;
         z-index: 100;
     }
     .chat-button {
+        height: 45px;
         font-size: 15px;
-        padding: 12px 20px;
-        display: inline-block;
+        padding: 0 20px;
+        display: inline-flex;
+        flex-direction: row;
         border-radius: 20px;
         color: white !important;
+        align-items: center;
+    }
+    .chat-icon {
+        height: 65%;
+        margin-right: 10px;
     }
     .chat-zalo {
-        background: #0573ff;
+        background: #4db7b3;
+        margin-right: 5px;
     }
     .hotline {
-        background: #d11a59;
+        background: #d5212e;
     }
-    @media (max-width: 450px) {
+    @media (max-width: 475px) {
         .float-contact {
+            flex-direction: column;
+            align-items: flex-start;
+            height: auto;
             bottom: 8px;
             left: 14px;
             width: 195px;
         }
         .chat-button {
+            height: 40px;
             font-size: 15px;
-            padding: 10px 18px;
+            padding: 0 18px;
         }
         .chat-zalo {
+            margin-right: 0;
             margin-bottom: 6px;
         }
     }
